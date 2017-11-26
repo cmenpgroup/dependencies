@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/fit
+END
+CubicSpline.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/12922/clas12/splot/src/cnuphys/splot/fit/CubicSpline.java
+END
+IValueGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/12850/clas12/splot/src/cnuphys/splot/fit/IValueGetter.java
+END
+LinearExyFit.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/13021/clas12/splot/src/cnuphys/splot/fit/LinearExyFit.java
+END
+PolyAndGaussianFit.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/13018/clas12/splot/src/cnuphys/splot/fit/PolyAndGaussianFit.java
+END
+FitEditorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/fit/FitEditorPanel.java
+END
+GaussianFit.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/13678/clas12/splot/src/cnuphys/splot/fit/GaussianFit.java
+END
+FitUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/13027/clas12/splot/src/cnuphys/splot/fit/FitUtilities.java
+END
+ErfFit.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/13018/clas12/splot/src/cnuphys/splot/fit/ErfFit.java
+END
+FGaussian.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/12883/clas12/splot/src/cnuphys/splot/fit/FGaussian.java
+END
+Fit.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/13926/clas12/splot/src/cnuphys/splot/fit/Fit.java
+END
+FErf.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/12963/clas12/splot/src/cnuphys/splot/fit/FErf.java
+END
+ErfcFit.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/13018/clas12/splot/src/cnuphys/splot/fit/ErfcFit.java
+END
+Polynomial.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/12922/clas12/splot/src/cnuphys/splot/fit/Polynomial.java
+END
+FitType.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/13871/clas12/splot/src/cnuphys/splot/fit/FitType.java
+END
+FErfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/12963/clas12/splot/src/cnuphys/splot/fit/FErfc.java
+END
+PolyFit.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/13018/clas12/splot/src/cnuphys/splot/fit/PolyFit.java
+END
+AltPolynomialFit.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/13018/clas12/splot/src/cnuphys/splot/fit/AltPolynomialFit.java
+END
+FitHold.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/13926/clas12/splot/src/cnuphys/splot/fit/FitHold.java
+END
+FPoly.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/12943/clas12/splot/src/cnuphys/splot/fit/FPoly.java
+END
+ANonlinearFit.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/13018/clas12/splot/src/cnuphys/splot/fit/ANonlinearFit.java
+END
+LineFit.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/13021/clas12/splot/src/cnuphys/splot/fit/LineFit.java
+END
+FGaussPoly.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/12943/clas12/splot/src/cnuphys/splot/fit/FGaussPoly.java
+END

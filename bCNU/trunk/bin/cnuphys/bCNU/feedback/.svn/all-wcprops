@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/13112/clas12/bCNU/trunk/src/cnuphys/bCNU/feedback
+END
+HeadsUpDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/feedback/HeadsUpDisplay.java
+END
+FeedbackControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/13074/clas12/bCNU/trunk/src/cnuphys/bCNU/feedback/FeedbackControl.java
+END
+FeedbackPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/13112/clas12/bCNU/trunk/src/cnuphys/bCNU/feedback/FeedbackPane.java
+END
+IFeedbackProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/!svn/ver/13074/clas12/bCNU/trunk/src/cnuphys/bCNU/feedback/IFeedbackProvider.java
+END

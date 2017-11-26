@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/11565/clas12/bCNU/trunk/src/cnuphys/bCNU/graphics/style
+END
+TextAlignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/graphics/style/TextAlignment.java
+END
+Styled.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/graphics/style/Styled.java
+END
+FillStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/graphics/style/FillStyle.java
+END
+SymbolType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/11565/clas12/bCNU/trunk/src/cnuphys/bCNU/graphics/style/SymbolType.java
+END
+LineStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/graphics/style/LineStyle.java
+END
+IStyled.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/graphics/style/IStyled.java
+END

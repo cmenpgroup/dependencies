@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/plot
+END
+APreferencePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/12922/clas12/splot/src/cnuphys/splot/plot/APreferencePanel.java
+END
+HorizontalLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/13447/clas12/splot/src/cnuphys/splot/plot/HorizontalLine.java
+END
+PlotParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/plot/PlotParameters.java
+END
+FloatingLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/plot/FloatingLabel.java
+END
+PlotGridDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/13962/clas12/splot/src/cnuphys/splot/plot/PlotGridDialog.java
+END
+Environment.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/13414/clas12/splot/src/cnuphys/splot/plot/Environment.java
+END
+VerticalLabelUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/12783/clas12/splot/src/cnuphys/splot/plot/VerticalLabelUI.java
+END
+Draggable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/plot/Draggable.java
+END
+SplotMenus.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/13962/clas12/splot/src/cnuphys/splot/plot/SplotMenus.java
+END
+PlotCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/plot/PlotCanvas.java
+END
+PlotTicks.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/13926/clas12/splot/src/cnuphys/splot/plot/PlotTicks.java
+END
+ImageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/12783/clas12/splot/src/cnuphys/splot/plot/ImageManager.java
+END
+GeneralPlotParamPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/plot/GeneralPlotParamPanel.java
+END
+DataDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/13868/clas12/splot/src/cnuphys/splot/plot/DataDrawer.java
+END
+VerticalLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/13447/clas12/splot/src/cnuphys/splot/plot/VerticalLine.java
+END
+DoubleFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/12958/clas12/splot/src/cnuphys/splot/plot/DoubleFormat.java
+END
+UnicodeSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/12908/clas12/splot/src/cnuphys/splot/plot/UnicodeSupport.java
+END
+PlotGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/13962/clas12/splot/src/cnuphys/splot/plot/PlotGrid.java
+END
+CommonBorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/12916/clas12/splot/src/cnuphys/splot/plot/CommonBorder.java
+END
+PlotLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/13447/clas12/splot/src/cnuphys/splot/plot/PlotLine.java
+END
+PlotPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/13447/clas12/splot/src/cnuphys/splot/plot/PlotPopupMenu.java
+END
+PrintUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/12806/clas12/splot/src/cnuphys/splot/plot/PrintUtilities.java
+END
+CurveDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/plot/CurveDrawer.java
+END
+TextFieldSlider.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/12943/clas12/splot/src/cnuphys/splot/plot/TextFieldSlider.java
+END
+X11Colors.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/12922/clas12/splot/src/cnuphys/splot/plot/X11Colors.java
+END
+GraphicsUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/13405/clas12/splot/src/cnuphys/splot/plot/GraphicsUtilities.java
+END
+Legend.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/plot/Legend.java
+END
+PlotPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/13875/clas12/splot/src/cnuphys/splot/plot/PlotPanel.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/13102/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes
+END
+AttributeEnumEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/11578/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeEnumEditor.java
+END
+AttributeStringEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeStringEditor.java
+END
+AttributeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/13074/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeType.java
+END
+AttributeDoubleEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/11578/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeDoubleEditor.java
+END
+AttributeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/!svn/ver/11578/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeEditor.java
+END
+AttributeCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/11578/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeCellEditor.java
+END
+AttributeBooleanEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeBooleanEditor.java
+END
+AttributeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/11578/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeTable.java
+END
+IAttributeTableHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/IAttributeTableHelper.java
+END
+IAttributeDisplayable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/IAttributeDisplayable.java
+END
+Attributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/13102/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/Attributes.java
+END
+AttributeIntegerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeIntegerEditor.java
+END
+AttributePanelEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributePanelEditor.java
+END
+AttributeDialogEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeDialogEditor.java
+END
+AttributeCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeCellRenderer.java
+END
+AttributeTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/11578/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeTableModel.java
+END
+AttributeTableScrollPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/attributes/AttributeTableScrollPane.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/12770/clas12/clas-io/src/org/jlab/evio/clas12
+END
+EvioEventList.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/12412/clas12/clas-io/src/org/jlab/evio/clas12/EvioEventList.java
+END
+EvioDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/12770/clas12/clas-io/src/org/jlab/evio/clas12/EvioDescriptor.java
+END
+EvioSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/12770/clas12/clas-io/src/org/jlab/evio/clas12/EvioSource.java
+END
+EvioDataBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/12655/clas12/clas-io/src/org/jlab/evio/clas12/EvioDataBank.java
+END
+EvioDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/12770/clas12/clas-io/src/org/jlab/evio/clas12/EvioDictionary.java
+END
+EvioDataSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/12655/clas12/clas-io/src/org/jlab/evio/clas12/EvioDataSync.java
+END
+EvioFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/12431/clas12/clas-io/src/org/jlab/evio/clas12/EvioFactory.java
+END
+EvioDataEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/12656/clas12/clas-io/src/org/jlab/evio/clas12/EvioDataEvent.java
+END

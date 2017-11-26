@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/11578/clas12/bCNU/trunk/src/cnuphys/bCNU/file
+END
+EventFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/11578/clas12/bCNU/trunk/src/cnuphys/bCNU/file/EventFileHandler.java
+END
+FileHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/11578/clas12/bCNU/trunk/src/cnuphys/bCNU/file/FileHandlerFactory.java
+END
+IFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/9012/clas12/bCNU/trunk/src/cnuphys/bCNU/file/IFileHandler.java
+END
+AFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/11578/clas12/bCNU/trunk/src/cnuphys/bCNU/file/AFileHandler.java
+END
+XMLFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/9012/clas12/bCNU/trunk/src/cnuphys/bCNU/file/XMLFileHandler.java
+END

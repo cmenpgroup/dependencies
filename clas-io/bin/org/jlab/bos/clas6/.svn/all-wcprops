@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/!svn/ver/12770/clas12/clas-io/src/org/jlab/bos/clas6
+END
+BosDataEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/12655/clas12/clas-io/src/org/jlab/bos/clas6/BosDataEvent.java
+END
+BankDictionaryXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/12488/clas12/clas-io/src/org/jlab/bos/clas6/BankDictionaryXML.java
+END
+BosDataDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/12488/clas12/clas-io/src/org/jlab/bos/clas6/BosDataDictionary.java
+END
+BosBankHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/12488/clas12/clas-io/src/org/jlab/bos/clas6/BosBankHeader.java
+END
+BosDataBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/12770/clas12/clas-io/src/org/jlab/bos/clas6/BosDataBank.java
+END
+BankDescriptorXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/12488/clas12/clas-io/src/org/jlab/bos/clas6/BankDescriptorXML.java
+END
+BosDataDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/12488/clas12/clas-io/src/org/jlab/bos/clas6/BosDataDescriptor.java
+END
+BankEntryXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/12488/clas12/clas-io/src/org/jlab/bos/clas6/BankEntryXML.java
+END
+BosDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/12488/clas12/clas-io/src/org/jlab/bos/clas6/BosDataSource.java
+END

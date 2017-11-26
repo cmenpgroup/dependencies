@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/12655/clas12/clas-io/src/org/jlab/data/io
+END
+DataDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/12412/clas12/clas-io/src/org/jlab/data/io/DataDictionary.java
+END
+DataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/12415/clas12/clas-io/src/org/jlab/data/io/DataFactory.java
+END
+DataBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/12655/clas12/clas-io/src/org/jlab/data/io/DataBank.java
+END
+DataSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/12646/clas12/clas-io/src/org/jlab/data/io/DataSync.java
+END
+DataEventList.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/12412/clas12/clas-io/src/org/jlab/data/io/DataEventList.java
+END
+DataDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/12422/clas12/clas-io/src/org/jlab/data/io/DataDescriptor.java
+END
+DataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/12488/clas12/clas-io/src/org/jlab/data/io/DataSource.java
+END
+DataEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/12655/clas12/clas-io/src/org/jlab/data/io/DataEvent.java
+END
+DataEntryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/12429/clas12/clas-io/src/org/jlab/data/io/DataEntryType.java
+END

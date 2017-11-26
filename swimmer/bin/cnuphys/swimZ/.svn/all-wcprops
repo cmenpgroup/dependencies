@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/14678/clas12/swimmer/src/cnuphys/swimZ
+END
+SwimZRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/14513/clas12/swimmer/src/cnuphys/swimZ/SwimZRange.java
+END
+SwimZException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14079/clas12/swimmer/src/cnuphys/swimZ/SwimZException.java
+END
+SwimZResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/14678/clas12/swimmer/src/cnuphys/swimZ/SwimZResult.java
+END
+SwimZ.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/14570/clas12/swimmer/src/cnuphys/swimZ/SwimZ.java
+END
+SwimZTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14678/clas12/swimmer/src/cnuphys/swimZ/SwimZTest.java
+END
+SwimZDerivative.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/14562/clas12/swimmer/src/cnuphys/swimZ/SwimZDerivative.java
+END
+SwimZStateVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14678/clas12/swimmer/src/cnuphys/swimZ/SwimZStateVector.java
+END

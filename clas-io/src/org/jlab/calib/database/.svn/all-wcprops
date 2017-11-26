@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/12646/clas12/clas-io/src/org/jlab/calib/database
+END
+ConstantDatabaseXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/12646/clas12/clas-io/src/org/jlab/calib/database/ConstantDatabaseXML.java
+END
+ConstantItemDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/!svn/ver/12646/clas12/clas-io/src/org/jlab/calib/database/ConstantItemDouble.java
+END
+ConstantItemInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/12646/clas12/clas-io/src/org/jlab/calib/database/ConstantItemInteger.java
+END

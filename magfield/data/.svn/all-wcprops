@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/!svn/ver/14713/clas12/magfield/data
+END
+solenoid-srr.dat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/!svn/ver/14713/clas12/magfield/data/solenoid-srr.dat
+END
+clas12SolenoidFieldMap.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14713/clas12/magfield/data/clas12SolenoidFieldMap.dat
+END
+clas12_torus_fieldmap_binary.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/8724/clas12/magfield/data/clas12_torus_fieldmap_binary.dat
+END

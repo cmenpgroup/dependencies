@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/repos/!svn/ver/14724/clas12/swimmer
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/!svn/ver/13016/clas12/swimmer/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/!svn/ver/10868/clas12/swimmer/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/!svn/ver/12050/clas12/swimmer/build.xml
+END

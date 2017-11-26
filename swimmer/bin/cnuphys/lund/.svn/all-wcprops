@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/!svn/ver/14715/clas12/swimmer/src/cnuphys/lund
+END
+LundId.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/13092/clas12/swimmer/src/cnuphys/lund/LundId.java
+END
+LundSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/14678/clas12/swimmer/src/cnuphys/lund/LundSupport.java
+END
+TrajectoryTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/13044/clas12/swimmer/src/cnuphys/lund/TrajectoryTableModel.java
+END
+GeneratedParticleRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/13011/clas12/swimmer/src/cnuphys/lund/GeneratedParticleRecord.java
+END
+DoubleFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/12913/clas12/swimmer/src/cnuphys/lund/DoubleFormat.java
+END
+LundStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/13612/clas12/swimmer/src/cnuphys/lund/LundStyle.java
+END
+LundTrackDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14715/clas12/swimmer/src/cnuphys/lund/LundTrackDialog.java
+END
+TrajectoryRowData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14709/clas12/swimmer/src/cnuphys/lund/TrajectoryRowData.java
+END
+LundComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/12703/clas12/swimmer/src/cnuphys/lund/LundComboBox.java
+END
+X11Colors.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/12913/clas12/swimmer/src/cnuphys/lund/X11Colors.java
+END
+SwimTrajectoryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/12712/clas12/swimmer/src/cnuphys/lund/SwimTrajectoryListener.java
+END
+TrajectoryTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/13044/clas12/swimmer/src/cnuphys/lund/TrajectoryTable.java
+END

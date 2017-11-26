@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/edit
+END
+CurveDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/edit/CurveDataModel.java
+END
+VerticalFlowLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/12812/clas12/splot/src/cnuphys/splot/edit/VerticalFlowLayout.java
+END
+DataEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/13678/clas12/splot/src/cnuphys/splot/edit/DataEditor.java
+END
+PlotPreferencesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/edit/PlotPreferencesDialog.java
+END
+IColorChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/12812/clas12/splot/src/cnuphys/splot/edit/IColorChangeListener.java
+END
+SimpleDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/12806/clas12/splot/src/cnuphys/splot/edit/SimpleDialog.java
+END
+ButtonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/12812/clas12/splot/src/cnuphys/splot/edit/ButtonPanel.java
+END
+CurveEditorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/13962/clas12/splot/src/cnuphys/splot/edit/CurveEditorDialog.java
+END
+CurveEditorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/edit/CurveEditorPanel.java
+END
+DialogUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/13405/clas12/splot/src/cnuphys/splot/edit/DialogUtilities.java
+END
+CurveTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/14515/clas12/splot/src/cnuphys/splot/edit/CurveTable.java
+END
+ColorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/12922/clas12/splot/src/cnuphys/splot/edit/ColorDialog.java
+END
+ColorLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/12922/clas12/splot/src/cnuphys/splot/edit/ColorLabel.java
+END
+ColorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/12812/clas12/splot/src/cnuphys/splot/edit/ColorPanel.java
+END

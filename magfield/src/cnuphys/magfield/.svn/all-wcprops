@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/!svn/ver/14721/clas12/magfield/src/cnuphys/magfield
+END
+MacTestField.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/13603/clas12/magfield/src/cnuphys/magfield/MacTestField.java
+END
+CompositeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/12704/clas12/magfield/src/cnuphys/magfield/CompositeField.java
+END
+MagneticFieldChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/12691/clas12/magfield/src/cnuphys/magfield/MagneticFieldChangeListener.java
+END
+ColorScaleModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/12704/clas12/magfield/src/cnuphys/magfield/ColorScaleModel.java
+END
+ScaleFieldPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/13603/clas12/magfield/src/cnuphys/magfield/ScaleFieldPanel.java
+END
+Solenoid.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/14710/clas12/magfield/src/cnuphys/magfield/Solenoid.java
+END
+Torus.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14308/clas12/magfield/src/cnuphys/magfield/Torus.java
+END
+MagneticFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14721/clas12/magfield/src/cnuphys/magfield/MagneticFields.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/11610/clas12/magfield/src/cnuphys/magfield/Test.java
+END
+LengthUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/11605/clas12/magfield/src/cnuphys/magfield/LengthUnit.java
+END
+FieldUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/11605/clas12/magfield/src/cnuphys/magfield/FieldUnit.java
+END
+PerfectSolenoid.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/14721/clas12/magfield/src/cnuphys/magfield/PerfectSolenoid.java
+END
+MagneticFieldCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/14710/clas12/magfield/src/cnuphys/magfield/MagneticFieldCanvas.java
+END
+RotatedCompositeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/12884/clas12/magfield/src/cnuphys/magfield/RotatedCompositeField.java
+END
+AngularUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/11605/clas12/magfield/src/cnuphys/magfield/AngularUnit.java
+END
+MagneticField.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14710/clas12/magfield/src/cnuphys/magfield/MagneticField.java
+END
+IField.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/12704/clas12/magfield/src/cnuphys/magfield/IField.java
+END
+CoordinateSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/11605/clas12/magfield/src/cnuphys/magfield/CoordinateSystem.java
+END
+GridCoordinate.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14308/clas12/magfield/src/cnuphys/magfield/GridCoordinate.java
+END
+ConstantField.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14721/clas12/magfield/src/cnuphys/magfield/ConstantField.java
+END

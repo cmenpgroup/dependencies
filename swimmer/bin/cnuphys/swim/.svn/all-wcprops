@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/!svn/ver/14724/clas12/swimmer/src/cnuphys/swim
+END
+IProjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/12913/clas12/swimmer/src/cnuphys/swim/IProjector.java
+END
+DefaultSwimStopper.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14322/clas12/swimmer/src/cnuphys/swim/DefaultSwimStopper.java
+END
+Swimmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/14712/clas12/swimmer/src/cnuphys/swim/Swimmer.java
+END
+SwimMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/14724/clas12/swimmer/src/cnuphys/swim/SwimMenu.java
+END
+SwimTrajectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/14322/clas12/swimmer/src/cnuphys/swim/SwimTrajectory.java
+END
+DefaultDerivative.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/13011/clas12/swimmer/src/cnuphys/swim/DefaultDerivative.java
+END
+Bxdl.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/13345/clas12/swimmer/src/cnuphys/swim/Bxdl.java
+END
+DefaultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14322/clas12/swimmer/src/cnuphys/swim/DefaultListener.java
+END
+Swimming.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/14709/clas12/swimmer/src/cnuphys/swim/Swimming.java
+END
+TerminalPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/12031/clas12/swimmer/src/cnuphys/swim/TerminalPlot.java
+END
+Example.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/14722/clas12/swimmer/src/cnuphys/swim/Example.java
+END
+SwimTrajectory2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/14709/clas12/swimmer/src/cnuphys/swim/SwimTrajectory2D.java
+END

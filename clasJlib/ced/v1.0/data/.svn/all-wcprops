@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/!svn/ver/13719/clas12/clasJlib/ced/v1.0/data
+END
+sector_1_wires.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/13654/clas12/clasJlib/ced/v1.0/data/sector_1_wires.dat
+END
+bstxy.dat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/13423/clas12/clasJlib/ced/v1.0/data/bstxy.dat
+END
+sector_1_ftof.xls
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/11586/clas12/clasJlib/ced/v1.0/data/sector_1_ftof.xls
+END
+sector_1_ftof.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/13654/clas12/clasJlib/ced/v1.0/data/sector_1_ftof.dat
+END
+solenoid-srr.dat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/11586/clas12/clasJlib/ced/v1.0/data/solenoid-srr.dat
+END
+ecGeo.dat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/13719/clas12/clasJlib/ced/v1.0/data/ecGeo.dat
+END
+clas12_torus_fieldmap_binary.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/11586/clas12/clasJlib/ced/v1.0/data/clas12_torus_fieldmap_binary.dat
+END

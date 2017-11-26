@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/13437/clas12/bCNU/trunk/src/cnuphys/bCNU/item
+END
+AItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/13437/clas12/bCNU/trunk/src/cnuphys/bCNU/item/AItem.java
+END
+APixelBasedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/13102/clas12/bCNU/trunk/src/cnuphys/bCNU/item/APixelBasedItem.java
+END
+TextItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/13102/clas12/bCNU/trunk/src/cnuphys/bCNU/item/TextItem.java
+END
+PolygonItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/13074/clas12/bCNU/trunk/src/cnuphys/bCNU/item/PolygonItem.java
+END
+LineItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/13102/clas12/bCNU/trunk/src/cnuphys/bCNU/item/LineItem.java
+END
+PointItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/13102/clas12/bCNU/trunk/src/cnuphys/bCNU/item/PointItem.java
+END
+PolylineItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/13074/clas12/bCNU/trunk/src/cnuphys/bCNU/item/PolylineItem.java
+END
+PathBasedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/13102/clas12/bCNU/trunk/src/cnuphys/bCNU/item/PathBasedItem.java
+END
+RadArcItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/13074/clas12/bCNU/trunk/src/cnuphys/bCNU/item/RadArcItem.java
+END
+EllipseItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/13074/clas12/bCNU/trunk/src/cnuphys/bCNU/item/EllipseItem.java
+END
+ItemPopupManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/11565/clas12/bCNU/trunk/src/cnuphys/bCNU/item/ItemPopupManager.java
+END
+ItemOrderingMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/11578/clas12/bCNU/trunk/src/cnuphys/bCNU/item/ItemOrderingMenu.java
+END
+ResizePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/7210/clas12/bCNU/trunk/src/cnuphys/bCNU/item/ResizePolicy.java
+END
+RectangleItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/13102/clas12/bCNU/trunk/src/cnuphys/bCNU/item/RectangleItem.java
+END
+ItemModification.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/13074/clas12/bCNU/trunk/src/cnuphys/bCNU/item/ItemModification.java
+END
+BaseBeamLineItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/13074/clas12/bCNU/trunk/src/cnuphys/bCNU/item/BaseBeamLineItem.java
+END
+YouAreHereItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/13074/clas12/bCNU/trunk/src/cnuphys/bCNU/item/YouAreHereItem.java
+END

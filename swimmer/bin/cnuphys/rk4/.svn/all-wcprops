@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/!svn/ver/14724/clas12/swimmer/src/cnuphys/rk4
+END
+IRk4Listener.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/12057/clas12/swimmer/src/cnuphys/rk4/IRk4Listener.java
+END
+DefaultStopper.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/14547/clas12/swimmer/src/cnuphys/rk4/DefaultStopper.java
+END
+IStopper.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/14322/clas12/swimmer/src/cnuphys/rk4/IStopper.java
+END
+RungeKuttaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/12156/clas12/swimmer/src/cnuphys/rk4/RungeKuttaException.java
+END
+ButcherTableau.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/13001/clas12/swimmer/src/cnuphys/rk4/ButcherTableau.java
+END
+IAdvance.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/12096/clas12/swimmer/src/cnuphys/rk4/IAdvance.java
+END
+IDerivative.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/12048/clas12/swimmer/src/cnuphys/rk4/IDerivative.java
+END
+RungeKutta4.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14724/clas12/swimmer/src/cnuphys/rk4/RungeKutta4.java
+END

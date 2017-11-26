@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 155
+AngularUnit.html
+CompositeField.html
+CoordinateSystem.html
+FieldUnit.html
+GridCoordinate.html
+IField.html
+LengthUnit.html
+MagneticField.html
+Solenoid.html
+
+END

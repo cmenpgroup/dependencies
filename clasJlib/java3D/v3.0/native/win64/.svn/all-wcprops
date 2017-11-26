@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/!svn/ver/11548/clas12/clasJlib/java3D/v3.0/native/win64
+END
+jogl_awt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/11548/clas12/clasJlib/java3D/v3.0/native/win64/jogl_awt.dll
+END
+gluegen-rt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/11548/clas12/clasJlib/java3D/v3.0/native/win64/gluegen-rt.dll
+END
+jogl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/11548/clas12/clasJlib/java3D/v3.0/native/win64/jogl.dll
+END
+jogl_cg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/11548/clas12/clasJlib/java3D/v3.0/native/win64/jogl_cg.dll
+END
